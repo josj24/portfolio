@@ -8,4 +8,6 @@ Home page
 
 The source for this page is in `content/index.md`.
 
-This is a sample home page written in markdown with some frontmatter defined.
+Hello, my name is Johan Sandberg and I am studying web programming and web design.
+
+![A photo of me](image/photo.jpg)
